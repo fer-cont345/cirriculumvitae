@@ -1,0 +1,13 @@
+{
+    "PersonalInformation":{
+        "name":"Fernando Contreas Contreras",
+        "ocuppation":"computer systems engineer",
+        "email":"contrerascf0012@gmail.com",
+        "phone":"6571043911",
+        "address":"5726 pino suarez street, La presa",
+        "github":"fer-cont345"
+    },
+    "aboutMe":{
+        "summary":"Im a person who likes"
+    }
+}
