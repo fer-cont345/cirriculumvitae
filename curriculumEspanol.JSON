@@ -1,0 +1,56 @@
+{
+    "informacionBasica":{
+        "nombre":"Fernando Conteras Contreas",
+        "ocupacion":"Ingeniero en sistemas computacionales",
+        "email":"contrerascf0012@gmail.com",
+        "telefono":"6571043911",
+        "ubicacion":{
+            "direccion":"Pino Suarez 5726, La Presa",
+            "codigo postal":"32688",
+            "ciudad":"Ciudad Juarez",
+            "estado":"Chihuahua"
+        },
+        "redes":[
+            {
+                "red":"LinkedIn",
+                "usuario":"",
+                "enlace":""
+            },
+            {
+                "red":"Github",
+                "usuario":"fer-cont345",
+                "enlace":""
+            }
+        ]
+    },
+    "acercaDeMi":{
+        "resumen":"soy una persona que le gusta trabajar",
+        "objetivoProfesional":"Me gustaria obtener experiencia"
+    },
+    "educacion":{
+
+    },
+    "experiencia":{
+
+    },
+    "conocimientos":{
+
+    },
+    "habilidadesBlandas":[
+        {
+            "habilidad":"Rapido aprendizaje"
+        },{
+            "habilidad":""
+        }
+    ],
+    "idiomas":[
+        {
+            "lenguaje":"Espanol",
+            "nivel":"Nativo"
+        },
+        {
+            "lenguaje":"Ingles",
+            "nivel":"B2"
+        }
+    ]
+}
