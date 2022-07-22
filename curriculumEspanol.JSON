@@ -13,26 +13,45 @@
         "redes":[
             {
                 "red":"LinkedIn",
-                "usuario":"",
-                "enlace":""
+                "usuario":"Fernando Contreras",
+                "enlace":"https://www.linkedin.com/in/fernando-contreras-806861202",
+                "iconoEnlace":"https://cdn-icons-png.flaticon.com/512/25/25231.png"
             },
             {
                 "red":"Github",
                 "usuario":"fer-cont345",
-                "enlace":""
+                "enlace":"https://github.com/fer-cont345",
+                "iconoEnlace":"https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"
             }
         ]
     },
     "acercaDeMi":{
-        "resumen":"soy una persona que le gusta trabajar",
-        "objetivoProfesional":"Me gustaria obtener experiencia"
+        "resumen":"Soy una persona que gusta del servicio, formacion del caracter, trabajo en equipo y de rapido aprendizaje poniendo en practica conocimiento adquirido a traves de la lectura y la formacion profesional.Apasionado por desarrollar soluciones a distintos problemas y por el autodesarrollo para generar nuevas ideas y dejar una marca positivva como profesionista y como ser humano en los lugares que aplico mi trabajo",
+        "objetivoProfesional":"Formar parte de una empresa importante y un equipo de trabajo para desarrollar y perfeccionar mis habilidades y de esta forma brindar a la empresa una mejora de la mano de crear nuevas relaciones laborales para desarrollar en equipo soluciones para distintas areas con un enfoque innovador y creativo utilizando las tecnologias de la informacion"
     },
-    "educacion":{
-
-    },
-    "experiencia":{
-
-    },
+    "educacion":[
+        {
+            "areaDeEstudio":"Ingenieria en sistemas computacionales",
+            "institucion":"Instituto Tecnologico de Ciudad Juarez",
+            "fechaDeInicio":"Agosto 2018",
+            "fechaDeTermino":"Julio 2023"
+        },
+        {
+            "areaDeEstudio":"Tecnico en programacion",
+            "institucion":"Centro de Bachillerato Tecnologico Industrial y de Servicio #128",
+            "fechaDeInicio":"Agosto 2015",
+            "fechaDeTermino":"Julio 2018"
+        }
+    ],
+    "experiencia":[
+        {
+            "empresa":"Chihuahua Electrical Wiring Systems",
+            "puesto":"Auxiliar de Sistemas",
+            "fechaDeInicio":"Enero 2021",
+            "fechaDeTermino":"Mayo 2021",
+            "descripcion":""
+        }
+    ],
     "conocimientos":{
 
     },
