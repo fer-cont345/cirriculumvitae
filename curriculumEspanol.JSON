@@ -52,9 +52,38 @@
             "descripcion":""
         }
     ],
-    "conocimientos":{
+    "conocimientos":[
+        {
+            "nombre":"Lenguajes de programacion",
+            "nivel":"Intermedio",
+            "descripcion":[
+                "HTML",
+                "CSS",
+                "Java",
+                "C++",
+                "C#",
+                "Python"
+            ]
+        },
+        {
+            "nombre":"Redes",
+            "nivel":"Intermedio",
+            "descripcion":[
+                "Routing",
+                "Switching",
+                "VLAN's" 
+            ]
 
-    },
+        },
+        {
+            "nombre":"Sistemas operativos",
+            "nivel":"Basico Avanzado",
+            "descripcion":[
+                "Linux",
+                "Windows"
+            ]
+        }
+    ],
     "habilidadesBlandas":[
         {
             "habilidad":"Rapido aprendizaje"
